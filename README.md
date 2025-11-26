@@ -1,3 +1,3 @@
-# capstone
+# Studying Project
 ## Editing the file
-This is my capstone project
+Thực hành làm dashboard Cognos IBM và Google Looker.
